@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 70 70">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: url(#linear-gradient);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0" y1="34.49" x2="70" y2="34.49" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ed3262"/>
+      <stop offset=".56" stop-color="#ed3d44"/>
+      <stop offset="1" stop-color="#ed4432"/>
+    </linearGradient>
+  </defs>
+  <g id="wallet_red">
+    <g>
+      <path class="cls-2" d="M59.43,9.18H10.57C4.74,9.18,0,13.96,0,19.8v31.19C0,55.83,4.74,59.8,10.57,59.8h48.85c5.84,0,10.57-3.97,10.57-8.81v-31.19c0-5.84-4.74-10.62-10.57-10.62ZM61.93,40.04c-3.06,0-5.55-2.48-5.55-5.55s2.49-5.54,5.55-5.54,5.54,2.48,5.54,5.54-2.48,5.55-5.54,5.55Z"/>
+      <rect class="cls-1" width="70" height="70"/>
+    </g>
+  </g>
+</svg>
